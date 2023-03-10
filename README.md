@@ -30,3 +30,5 @@
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=leonardowebster&width=1000&count=10" target="_blank">
     </a>
 </div>
+
+![Snake animation](https://github.com/websterl3o/websterl3o/blob/output/github-contribution-grid-snake.svg)
