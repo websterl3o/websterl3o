@@ -21,7 +21,7 @@
     </a>
 </div>
 
-### Spotify Playing 🎧
+### O que estou escutando 🎧
 
 <div align="center">
     <a href="https://open.spotify.com/user/leonardowebster" target="_blank">
