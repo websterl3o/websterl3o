@@ -2,8 +2,6 @@
 
 Eu sou um desenvolvedor de software com mais de 7 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack, focado em desenvolvimento web backend. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
 
----
-
 ### Contato
 
 <div align="center">
@@ -21,16 +19,12 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
     </a>
 </div>
 
----
-
 ### Databases
 
 <div align="center">
     <img src="https://img.shields.io/badge/-MySQL-%23fff?style=for-the-badge&logo=mysql&logoColor=4479A1" target="_blank">
     <img src="https://img.shields.io/badge/-MongoDB-%23fff?style=for-the-badge&logo=mongodb&logoColor=47A248" target="_blank">
 </div>
-
----
 
 ### Linguagens
 
@@ -44,8 +38,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
     <img src="https://img.shields.io/badge/-SQL-%23fff?style=for-the-badge&logo=postgresql&logoColor=336791" target="_blank">
     <img src="https://img.shields.io/badge/-Shell%20Script-%23fff?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" target="_blank">
 </div>
-
----
 
 ### Tecnologias e Ferramentas 🛠
 
@@ -63,8 +55,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
     <img src="https://img.shields.io/badge/-Figma-%23fff?style=for-the-badge&logo=figma&logoColor=F24E1E" target="_blank">  
 </div>
 
----
-
 ### OS
 
 <div align="center">
@@ -74,8 +64,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/websterl3o/websterl3o/output/dist/github-contribution-grid-snake-dark.svg) -->
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -83,8 +71,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=websterl3o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websterl3o&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
----
 
 ### O que estou escutando 🎧
 
