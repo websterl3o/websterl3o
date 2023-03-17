@@ -1,6 +1,6 @@
 ## Olá eu sou Leonardo Webster 👋
 
-Eu sou um desenvolvedor de software com mais de 7 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack, focado em desenvolvimento web backend. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
+Eu sou um desenvolvedor de software com mais de 7 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack senior, focado em desenvolvimento web backend. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
 
 ### Contato
 
@@ -44,6 +44,7 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 <div align="left">
     <img src="https://img.shields.io/badge/-Docker-%23fff?style=for-the-badge&logo=docker&logoColor=2496ED" target="_blank">
     <img src="https://img.shields.io/badge/-Figma-%23fff?style=for-the-badge&logo=figma&logoColor=F24E1E" target="_blank">  
+    <img src="https://img.shields.io/badge/-Filamentphp-%23fff?style=for-the-badge&logo=filamentphp&logoColor=FF2D20" target="_blank">
     <img src="https://img.shields.io/badge/-Git-%23fff?style=for-the-badge&logo=git&logoColor=F05032" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23fff?style=for-the-badge&logo=github&logoColor=181717" target="_blank">
     <img src="https://img.shields.io/badge/-Insomnia-%23fff?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank">
