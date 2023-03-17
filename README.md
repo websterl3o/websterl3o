@@ -4,7 +4,7 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 ### Contato
 
-<div align="center">
+<div align="left">
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/leonardo-webster/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -21,14 +21,14 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 ### Databases
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-MySQL-%23fff?style=for-the-badge&logo=mysql&logoColor=4479A1" target="_blank">
     <img src="https://img.shields.io/badge/-MongoDB-%23fff?style=for-the-badge&logo=mongodb&logoColor=47A248" target="_blank">
 </div>
 
 ### Linguagens
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-HTML5-%23fff?style=for-the-badge&logo=html5&logoColor=E34F26" target="_blank">
     <img src="https://img.shields.io/badge/-CSS-%23fff?style=for-the-badge&logo=css3&logoColor=1572B6" target="_blank">
     <img src="https://img.shields.io/badge/-JavaScript-%23fff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
@@ -41,7 +41,7 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 ### Tecnologias e Ferramentas 🛠
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-Laravel-%23fff?style=for-the-badge&logo=laravel&logoColor=FF2D20" target="_blank">
     <img src="https://img.shields.io/badge/-Vue.js-%23fff?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank">
     <img src="https://img.shields.io/badge/-Git-%23fff?style=for-the-badge&logo=git&logoColor=F05032" target="_blank">
@@ -57,7 +57,7 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 ### OS
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-MacOS-%23fff?style=for-the-badge&logo=apple&logoColor=999999" target="_blank">
     <img src="https://img.shields.io/badge/-Linux-%23fff?style=for-the-badge&logo=linux&logoColor=FCC624" target="_blank">
 </div>
