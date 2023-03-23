@@ -84,7 +84,7 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 <!-- Snake animation -->
 <div align="center">
-    <img src=https://github.com/websterl3o/websterl3o/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/websterl3o/websterl3o/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ### O que estou escutando 🎧
