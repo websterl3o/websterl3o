@@ -65,8 +65,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
     <img src="https://img.shields.io/badge/-MacOS-%23fff?style=for-the-badge&logo=apple&logoColor=999999" target="_blank">
 </div>
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/websterl3o/websterl3o/output/dist/github-contribution-grid-snake-dark.svg) -->
-
 ### GitHub Stats
 
 <div align="center">
@@ -84,7 +82,10 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 ### GitHub Contributions
 
-![Snake animation](https://raw.githubusercontent.com/websterl3o/websterl3o/output/dist/github-contribution-grid-snake-dark.svg)
+<!-- Snake animation -->
+<div align="center">
+    <img src=https://github.com/websterl3o/websterl3o/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 ### O que estou escutando 🎧
 
