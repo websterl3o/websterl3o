@@ -1,5 +1,7 @@
 ## Olá eu sou Leonardo Webster 👋
 
+![ProfileViews](https://komarev.com/ghpvc/?username=websterl3o&style=flat-square)
+
 Eu sou um desenvolvedor de software com mais de 7 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack senior, focado em desenvolvimento web back-end. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
 
 ### Contato
@@ -68,10 +70,21 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/websterl3o">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=websterl3o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websterl3o&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/websterl3o">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=websterl3o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websterl3o&layout=compact&langs_count=7&theme=dark"/>
+    </a>
 </div>
+
+### GitHub Trophies
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=websterl3o&theme=darkhub&column=7&margin-w=15&margin-h=15" />
+</div>
+
+### GitHub Contributions
+
+![Snake animation](https://raw.githubusercontent.com/websterl3o/websterl3o/output/dist/github-contribution-grid-snake-dark.svg)
 
 ### O que estou escutando 🎧
 
