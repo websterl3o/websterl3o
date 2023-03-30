@@ -4,6 +4,21 @@
 
 Eu sou um desenvolvedor de software com mais de 7 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack senior, focado em desenvolvimento web back-end. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
 
+### GitHub Stats
+
+<div align="center">
+    <a href="https://github.com/websterl3o">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=websterl3o&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Leonardo%20Webster's%20GitHub%20Stats"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websterl3o&layout=compact&langs_count=8&theme=dark&locale=pt-br"/>
+    </a>
+</div>
+
+### GitHub Trophies
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=websterl3o&theme=darkhub&column=7&margin-w=15&margin-h=15" />
+</div>
+
 ### Contato
 
 <div align="left">
@@ -63,21 +78,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 <div align="left">
     <img src="https://img.shields.io/badge/-Linux-%23fff?style=for-the-badge&logo=linux&logoColor=FCC624" target="_blank">
     <img src="https://img.shields.io/badge/-MacOS-%23fff?style=for-the-badge&logo=apple&logoColor=999999" target="_blank">
-</div>
-
-### GitHub Stats
-
-<div align="center">
-    <a href="https://github.com/websterl3o">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=websterl3o&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Leonardo%20Webster's%20GitHub%20Stats"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websterl3o&layout=compact&langs_count=8&theme=dark&locale=pt-br"/>
-    </a>
-</div>
-
-### GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=websterl3o&theme=darkhub&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ### GitHub Contributions
