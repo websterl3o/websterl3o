@@ -2,7 +2,7 @@
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=websterl3o&style=flat-square)
 
-Eu sou um desenvolvedor de software com mais de 7 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack senior, focado em desenvolvimento web back-end. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
+Eu sou um desenvolvedor de software com mais de 8 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack senior, focado em desenvolvimento web back-end. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
 
 ### GitHub Stats
 
