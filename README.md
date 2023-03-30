@@ -91,6 +91,6 @@ Eu sou um desenvolvedor de software com mais de 7 anos de experiência em divers
 
 <div align="center">
     <a href="https://open.spotify.com/user/leonardowebster" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=leonardowebster&width=1000&count=10" target="_blank">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=leonardowebster&width=1000&count=10">
     </a>
 </div>
