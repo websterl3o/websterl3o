@@ -2,7 +2,7 @@
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=websterl3o&style=flat-square)
 
-Eu sou um desenvolvedor de software com mais de 8 anos de experiência em diversas tecnologias e linguagens de programação. Atualmente trabalho como desenvolvedor full-stack senior, focado em desenvolvimento web back-end. Sou apaixonado por tecnologia e estou sempre buscando aprender novas habilidades e aprimorar as que já tenho.
+Sou desenvolvedor de software web com mais de 8 anos de experiência em diversas tecnologias e linguagens de programação. Graduado em Ciências da Computação pela Faculdade Doctum, atualmente trabalho como desenvolvedor full-stack sênior com foco no desenvolvimento back-end. Possuo habilidades avançadas em linguagens como CSS, JavaScript, HTML5, PHP, Python, MySQL, Sql, Shell Scripts, TypeScript e golang, além de conhecimentos especializados em ferramentas e frameworks populares como Docker, GitHub, Figma, Filamentphp, Insomnia, Jira, Laravel, Postman, Trello, Vue.js e VSCode. Sou apaixonado por tecnologia e programação, sempre buscando aprender novas habilidades e aprimorar as existentes para oferecer soluções inovadoras e eficientes aos usuários finais. Paralelamente, estou cursando inglês na escola "Fernando Idiomas" em minha cidade para expandir meus horizontes e me comunicar melhor com profissionais e empresas internacionais.
 
 ### GitHub Stats
 
@@ -52,8 +52,10 @@ Eu sou um desenvolvedor de software com mais de 8 anos de experiência em divers
     <img src="https://img.shields.io/badge/-PHP-%23fff?style=for-the-badge&logo=php&logoColor=777BB4" target="_blank">
     <img src="https://img.shields.io/badge/-Python-%23fff?style=for-the-badge&logo=python&logoColor=3776AB" target="_blank">
     <img src="https://img.shields.io/badge/-SQL-%23fff?style=for-the-badge&logo=postgresql&logoColor=336791" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-%23fff?style=for-the-badge&logo=mysql&logoColor=4479A1" target="_blank">
     <img src="https://img.shields.io/badge/-Shell%20Script-%23fff?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" target="_blank">
     <img src="https://img.shields.io/badge/-TypeScript-%23fff?style=for-the-badge&logo=typescript&logoColor=3178C6" target="_blank">
+    <img src="https://img.shields.io/badge/-golang-%23fff?style=for-the-badge&logo=go&logoColor=00ADD8" target="_blank">
 </div>
 
 ### Tecnologias e Ferramentas 🛠
