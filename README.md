@@ -86,12 +86,12 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender novas ha
     <img src="https://img.shields.io/badge/-MacOS-%23fff?style=for-the-badge&logo=apple&logoColor=999999" target="_blank">
 </div>
 
-### GitHub Contributions
+<!-- ### GitHub Contributions -->
 
 <!-- Snake animation -->
-<div align="center">
-    <img src="https://github.com/websterl3o/websterl3o/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<!-- <div align="center"> -->
+    <!-- <img src="https://github.com/websterl3o/websterl3o/blob/output/github-contribution-grid-snake.svg" /> -->
+<!-- </div> -->
 
 ### O que estou escutando 🎧
 
