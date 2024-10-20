@@ -4,7 +4,7 @@
 
 Sou desenvolvedor de software web com mais de 8 anos de experiência em diversas tecnologias e linguagens de programação. Graduado em Ciências da Computação pela Faculdade Doctum, atualmente trabalho como desenvolvedor full-stack sênior com foco no desenvolvimento back-end.
 
-Possuo habilidades avançadas em linguagens como CSS, JavaScript, HTML5, PHP, Python, MySQL, Sql, Shell Scripts, TypeScript e golang, além de conhecimentos especializados em ferramentas e frameworks populares como Docker, GitHub, Figma, Filamentphp, Insomnia, Jira, Laravel, Postman, Trello, Vue.js e VSCode.
+Possuo habilidades avançadas em linguagens como CSS, JavaScript, HTML5, PHP, Python, MySQL, Sql, Shell Scripts, TypeScript e Go(GoLang), além de conhecimentos especializados em ferramentas e frameworks populares como Docker, GitHub, Figma, Filamentphp, Insomnia, Jira, Laravel, Postman, Trello, Vue.js e VSCode.
 
 Sou apaixonado por tecnologia e programação, sempre buscando aprender novas habilidades e aprimorar as existentes para oferecer soluções inovadoras e eficientes aos usuários finais.Paralelamente, estou cursando inglês na escola "Fernando Idiomas" em minha cidade para expandir meus horizontes e me comunicar melhor com profissionais e empresas internacionais.
 
