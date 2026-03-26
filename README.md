@@ -8,7 +8,7 @@
     </a>
     <a href="https://www.linkedin.com/in/leonardo-webster/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
+    </a>
     <a href="https://t.me/leonardowebster" target="_blank">
         <img src="https://img.shields.io/badge/-telegram-%230c1c33?style=for-the-badge&logo=telegram" target="_blank">
     </a>
@@ -21,6 +21,8 @@
 Sou um Engenheiro de Software Sênior com mais de 11 anos de experiência, especializado no ecossistema **PHP (Laravel)** e **Golang**. Meu foco principal é projetar, arquitetar e escalar sistemas de backend, liderando a transição de monolitos legados para arquiteturas distribuídas (Microserviços) e APIs RESTful de alta performance.
 
 Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Reviews*, garantindo a aplicação de **TDD, SOLID, Clean Code e Object Calisthenics**. Acredito que a inovação aliada a uma escuta ativa e à mentoria de desenvolvedores são as chaves para entregas consistentes.
+
+> 🏢 **Nota sobre Contribuições:** Atualmente, atuo no desenvolvimento de sistemas governamentais e corporativos críticos. Por questões de compliance e arquitetura empresarial, a maior parte do meu código diário (commits, PRs e Code Reviews) reside em repositórios privados no **GitLab**. Sinta-se à vontade para explorar meus repositórios fixados abaixo para exemplos de código e design de software.
 
 ## 🚀 Tech Stack & Engenharia
 
@@ -43,28 +45,9 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
 <div align="left">
     <img src="https://img.shields.io/badge/-Docker-%23fff?style=for-the-badge&logo=docker&logoColor=2496ED">
     <img src="https://img.shields.io/badge/-AWS-%23fff?style=for-the-badge&logo=amazon-aws&logoColor=232F3E">
+    <img src="https://img.shields.io/badge/-GitLab-%23fff?style=for-the-badge&logo=gitlab&logoColor=FC6D26">
     <img src="https://img.shields.io/badge/-Git-%23fff?style=for-the-badge&logo=git&logoColor=F05032">
-    <img src="https://img.shields.io/badge/-Shell%20Script-%23fff?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25">
 </div>
-
----
-
-## 📈 Métricas de Contribuição
-
-<div align="center">
-    <a href="https://github.com/websterl3o">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=websterl3o&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Leonardo%20Webster's%20GitHub%20Stats"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websterl3o&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
-    </a>
-</div>
-
-### 🏆 Troféus
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=websterl3o&theme=darkhub&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
 
 ## 🎧 Codando ao som de...
 
@@ -74,4 +57,6 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
     </a>
 </div>
 
-![ProfileViews](https://komarev.com/ghpvc/?username=websterl3o&style=flat-square&label=Visualizações+do+Perfil)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=websterl3o&style=flat-square&label=Visualizações+do+Perfil" alt="ProfileViews">
+</div>
