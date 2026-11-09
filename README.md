@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Leonardo Webster 👋</h1>
 
-<h3 align="center">Senior Backend Engineer | Tech Lead | Software Architecture</h3>
+<h3 align="center">Tech Lead | Senior Backend Engineer | Arquitetura de Software</h3>
 
 <div align="center">
     <a href="mailto:leonardowebster15@gmail.com" target="_blank">
@@ -18,7 +18,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um Engenheiro de Software Sênior com mais de 11 anos de experiência, especializado no ecossistema **PHP (Laravel)** e **Golang**. Meu foco principal é projetar, arquitetar e escalar sistemas de backend, liderando a transição de monolitos legados para arquiteturas distribuídas (Microserviços) e APIs RESTful de alta performance.
+Sou Senior Backend Engineer com mais de 11 anos de experiência, especializado em PHP (Laravel) e Go. Meu foco é liderança técnica e arquitetura de backend: definir padrões, tomar decisões de arquitetura e escalar sistemas, sem me afastar do código.
+
+**Destaques**
+- 🧭 Liderei tecnicamente um time de 4 desenvolvedores e a separação de um monólito em microsserviços, num e-commerce com mais de 50 mil usuários diários.
+- ⚡ Reduzi de 30% a 60% o tempo de execução de queries críticas com otimização de banco de dados.
+- 🧪 Levei um microsserviço a mais de 70% de cobertura de testes quando a empresa começava a adotar testes automatizados.
+- 🤖 Criei um sistema multiagentes de IA para desenvolvimento Laravel, com personas, memória compartilhada e skills próprias (projeto pessoal, código privado).
 
 Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Reviews*, garantindo a aplicação de **TDD, SOLID, Clean Code e Object Calisthenics**. Acredito que a inovação aliada a uma escuta ativa e à mentoria de desenvolvedores são as chaves para entregas consistentes.
 
@@ -32,6 +38,7 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
     <img src="https://img.shields.io/badge/-Laravel-%23fff?style=for-the-badge&logo=laravel&logoColor=FF2D20">
     <img src="https://img.shields.io/badge/-Golang-%23fff?style=for-the-badge&logo=go&logoColor=00ADD8">
     <img src="https://img.shields.io/badge/-Python-%23fff?style=for-the-badge&logo=python&logoColor=3776AB">
+    <img src="https://img.shields.io/badge/-Vue.js-%23fff?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </div>
 
 ### Bancos de Dados & Mensageria
@@ -39,6 +46,8 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
     <img src="https://img.shields.io/badge/-PostgreSQL-%23fff?style=for-the-badge&logo=postgresql&logoColor=336791">
     <img src="https://img.shields.io/badge/-MySQL-%23fff?style=for-the-badge&logo=mysql&logoColor=4479A1">
     <img src="https://img.shields.io/badge/-MongoDB-%23fff?style=for-the-badge&logo=mongodb&logoColor=47A248">
+    <img src="https://img.shields.io/badge/-RabbitMQ-%23fff?style=for-the-badge&logo=rabbitmq&logoColor=FF6600">
+    <img src="https://img.shields.io/badge/-Redis-%23fff?style=for-the-badge&logo=redis&logoColor=DC382D">
 </div>
 
 ### Infraestrutura, DevOps & Ferramentas
@@ -47,6 +56,9 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
     <img src="https://img.shields.io/badge/-AWS-%23fff?style=for-the-badge&logo=amazon-aws&logoColor=232F3E">
     <img src="https://img.shields.io/badge/-GitLab-%23fff?style=for-the-badge&logo=gitlab&logoColor=FC6D26">
     <img src="https://img.shields.io/badge/-Git-%23fff?style=for-the-badge&logo=git&logoColor=F05032">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-%23fff?style=for-the-badge&logo=githubactions&logoColor=2088FF">
+    <img src="https://img.shields.io/badge/-Jenkins-%23fff?style=for-the-badge&logo=jenkins&logoColor=D24939">
+    <img src="https://img.shields.io/badge/-Pest_%2F_PHPUnit-%23fff?style=for-the-badge&logo=php&logoColor=777BB4">
 </div>
 
 ## 🎧 Codando ao som de...
