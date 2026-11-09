@@ -63,11 +63,7 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
 
 ## 🎧 Codando ao som de...
 
-<div align="center">
-    <a href="https://open.spotify.com/user/leonardowebster" target="_blank">
-        ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=leonardowebster)
-    </a>
-</div>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=leonardowebster)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=websterl3o&style=flat-square&label=Visualizações+do+Perfil" alt="ProfileViews">
