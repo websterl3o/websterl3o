@@ -65,7 +65,7 @@ Como defensor ferrenho da qualidade técnica, atuo de forma rigorosa em *Code Re
 
 <div align="center">
     <a href="https://open.spotify.com/user/leonardowebster" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=leonardowebster&width=800&count=6">
+        ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=leonardowebster)
     </a>
 </div>
 
